@@ -14,7 +14,7 @@ Cam Face Detection portion detects the faces of people using camera attached to 
 
 The Real-time Detection allows detection of people in image, video or via camera i.e.: webcam or CCTV camera. This portion makes use of OpenCV built in HOGCV Algorithm.
 
-<h3>Image Detection Result&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Video Detection Result(Screen Shot)</h3>
+<h3>Image Detection Result&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Video Detection Result(Screen Shot)</h3>
 
 <img align = "left" src="https://github.com/muhammad-masood-ur-rehman/The-Tammed-using-Python/blob/main/Images/population_counter_camera.png?raw=true" width="450" height="400">
 <img align = "right" src="https://github.com/muhammad-masood-ur-rehman/The-Tammed-using-Python/blob/main/Images/population_counter_video_ss.png?raw=true" width="450" height="400">
